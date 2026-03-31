@@ -105,7 +105,7 @@ Fungsi:
 Menghubungkan website dengan database MySQL
 Digunakan di semua file PHP
 
-2. 📄 index.php
+## 2. 📄 index.php
 ```php
 <?php
 include 'conn.php';
@@ -146,7 +146,7 @@ Penjelasan:
 
 ---
 
-3. 🎨 style.css
+## 3. 🎨 style.css
 
 Digunakan untuk mengatur tampilan website:
 
@@ -158,7 +158,7 @@ Digunakan untuk mengatur tampilan website:
 
 ---
 
-🗄️ E. Struktur Database
+# 🗄️ E. Struktur Database
 📌 Database: portfolio_db
 Table: profile
 - id
@@ -175,8 +175,10 @@ Table: certificates
 - title
 - issuer
 - image
+
 ---
-📂 F. Struktur Project
+
+# 📂 F. Struktur Project
 ``` minpro2/
 │
 ├── index.php
@@ -190,7 +192,7 @@ Table: certificates
 └── README.md
 ```
 ---
-🛠️ G. Teknologi yang Digunakan
+# 🛠️ G. Teknologi yang Digunakan
 - HTML5
 - CSS3
 - Bootstrap 5
@@ -198,7 +200,7 @@ Table: certificates
 - MySQL/Laragon
 - Google Fonts
 
-🏆 H. Hasil Pembelajaran
+# 🏆 H. Hasil Pembelajaran
 
 Melalui project ini, saya mempelajari:
 
@@ -211,17 +213,19 @@ Melalui project ini, saya mempelajari:
   
 ---
 
-📌 Catatan
-Website tidak menggunakan template
-Semua layout dibuat manual
-Data diambil langsung dari database
-Gambar disimpan di folder assets
+# 📌 Catatan
+- Website tidak menggunakan template
+- Semua layout dibuat manual
+- Data diambil langsung dari database
+- Gambar disimpan di folder assets
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Chiqo Nanda Rial Pratama
-Mahasiswa Sistem Informasi
-Universitas Mulawarman
-Tahun 2026
+#### Chiqo Nanda Rial Pratama
+#### Mahasiswa Sistem Informasi
+#### Universitas Mulawarman
+#### Tahun 2026
+
+---
