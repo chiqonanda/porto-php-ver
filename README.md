@@ -191,12 +191,12 @@ Table: certificates
 ```
 ---
 🛠️ G. Teknologi yang Digunakan
-HTML5
-CSS3
-Bootstrap 5
-PHP (Native)
-MySQL
-Google Fonts
+- HTML5
+- CSS3
+- Bootstrap 5
+- PHP (Native)
+- MySQL/Laragon
+- Google Fonts
 
 🏆 H. Hasil Pembelajaran
 
